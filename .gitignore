@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# Backpack build
+build
+
+
+*.lock
+
+.idea/
+runtime/
+/.babelrc
+config.js
+package-lock.json
+
+/tiff
+/in
+/out
